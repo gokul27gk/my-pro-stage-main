@@ -15,7 +15,7 @@ const Hero = () => {
         <div className="text-center space-y-8 animate-fade-in">
           <div className="space-y-4">
             <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-foreground tracking-tight">
-              Gokula Krishnan G
+              Gokula Krishnan 
             </h1>
             
             <p className="text-xl sm:text-2xl text-primary font-medium">
